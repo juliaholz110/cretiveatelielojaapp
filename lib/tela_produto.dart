@@ -142,7 +142,7 @@ class _ProductDetailPageState extends State<ProductDetailPage> {
             Row(
               children: [
                 Text(
-                  'É para presente??? ',
+                  'É para presente?? ',
                   style: TextStyle(fontSize: 16.0),
                 ),
                 Checkbox(
